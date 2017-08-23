@@ -37,7 +37,6 @@ Nun können Sie die beschränkten Funktionen des Rechners verwenden.
 1 Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
 
 Operator: Dort geben Sie einen beliebigen Operator ein.
-
 Der Rechner unterstüzt nur + , -, * ,/ .
 
 2 Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
