@@ -1,6 +1,6 @@
 # CMD-Rechner
 
-Einen Taschenrechner mit Notepad++ & cmd.exe erstellen.
+Einen Taschenrechner mit Java, Notepad++ & cmd.exe erstellen.
 
 # Anleitung Java & Kompatibilität
 
