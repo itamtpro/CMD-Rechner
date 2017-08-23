@@ -2,6 +2,8 @@
 
 Einen Taschenrechner mit Notepad++ & cmd.exe erstellen.
 
+# Anleitung Java & Kompatibilität
+
 Damit man die .java vernünftig ausführen kann, sollte die neuste Java SE Version installiert sein.
 Im folgenden Link finden Sie die neueste Version: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
@@ -12,6 +14,8 @@ Gehen Sie sicher, dass Sie die neueste Version auswählen.
 Falls Sie keine Systemvariable mit dem Namen "PATH" besitzen, erstellen Sie diese.
 
 Um die cmd.exe zu starten: Windows-Taste + R drücken und im Suchfeld "cmd" eingeben, dann auf "OK" drücken.
+
+# Anleitung cmd.exe Konsole
 
 Anschließen braucht die Konsole, den genauen Standort der .java Datei.
 Dazu verwenden Sie den Befehl: "cd" "Den Ordnerpfad, wo sich die .java Datei aufhält", um das Verzeichnis zu wechseln.
@@ -29,8 +33,8 @@ Daraufhin verwenden Sie den Befehl: "java Rechner", um die .java Datei zu öffne
 
 Nun können Sie die beschränkten Funktionen des Rechners verwenden.
 
-# 1. Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
+1 Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
 Operator: Dort geben Sie einen beliebigen Operator ein.
 Der Rechner unterstüzt nur + , -, * ,/ .
-# 2. Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
+2 Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
 Das Objekt erzeugt: Ihr Ergebnis.
