@@ -35,9 +35,9 @@ Ohne das komprimieren, ensteht ein Fehler, da die Hauptklasse nicht gefunden wur
 
 Daraufhin verwenden Sie den Befehl: "java Rechner", um die .java Datei zu öffnen.
 
-# Funktionen
-
 Nun können Sie die beschränkten Funktionen des Rechners verwenden.
+
+# Funktionen
 
 1 Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
 
