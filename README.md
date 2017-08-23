@@ -29,8 +29,8 @@ Daraufhin verwenden Sie den Befehl: "java Rechner", um die .java Datei zu öffne
 
 Nun können Sie die beschränkten Funktionen des Rechners verwenden.
 
-1. Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
+# 1. Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
 Operator: Dort geben Sie einen beliebigen Operator ein.
 Der Rechner unterstüzt nur + , -, * ,/ .
-2. Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
+# 2. Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
 Das Objekt erzeugt: Ihr Ergebnis.
