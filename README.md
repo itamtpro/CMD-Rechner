@@ -19,7 +19,7 @@ Um die cmd.exe zu starten: Windows-Taste + R drücken und im Suchfeld "cmd" eing
 
 Anschließen braucht die Konsole, den genauen Standort der .java Datei.
 Dazu verwenden Sie den Befehl: "cd" "Den Ordnerpfad, wo sich die .java Datei aufhält", um das Verzeichnis zu wechseln.
-Beispiel: cd C:\Users\itamtpro\Desktop\Programmieren\Projekt\Java
+#Beispiel: cd C:\Users\itamtpro\Desktop\Programmieren\Projekt\Java
 Den Ordnerpfad mit Rechtsklick > Einfügen, einfügen.
 
 Danach können Sie den Befehl: "dir" verwenden.
