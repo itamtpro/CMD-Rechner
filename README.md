@@ -14,4 +14,22 @@ Falls Sie keine Systemvariable mit dem Namen "PATH" besitzen, erstellen Sie dies
 Um die cmd.exe zu starten: Windows-Taste + R drücken und im Suchfeld "cmd" eingeben, dann auf "OK" drücken.
 
 Anschließen braucht die Konsole, den genauen Standort der .java Datei.
-Dazu verwenden Sie den Befehl: cd "Den Ordnerpfad, wo sich die .java Datei aufhält".
+Dazu verwenden Sie den Befehl: "cd" "Den Ordnerpfad, wo sich die .java Datei aufhält", um das Verzeichnis zu wechseln.
+Beispiel: cd C:\Users\itamtpro\Desktop\Programmieren\Projekt\Java
+Den Ordnerpfad mit Rechtsklick > Einfügen, einfügen.
+
+Danach können Sie den Befehl: "dir" verwenden.
+Dieser Befehl zeigt Ihnen alle Dateien innerhalb des aktuellen Verzeichnisses an.
+
+Um die .java Datei nun zu verwenden, müssen Sie den Befehl: "javac Rechner.java" eingeben.
+Dieser Befehl komprimiert die .java Datei und erstellt eine .class Datei.
+Ohne das komprimieren, ensteht ein Fehler, da die Hauptklasse nicht gefunden wurde.
+
+Daraufhin verwenden Sie den Befehl: "java Rechner", um die .java Datei zu öffnen.
+
+Nun können Sie die beschränkten Funktionen des Rechners verwenden.
+
+1. Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
+Operator: Dort geben Sie einen beliebigen Operator ein. Der Rechner unterstüzt nur + , -, * ,/ .
+2. Zahl eingeben: Dort geben Sie eine beliebige Zahl ein.
+Das Objekt erzeugt: Ihr Ergebnis.
